@@ -3,20 +3,20 @@
 <suite name="Learn Selenium Test Suite">
     <test verbose="2" preserve-order="true" name="Regression">
         <classes>
-            <class name="alerts.AlertTests"/>
-            <class name="brokenimages.BrokenImagesTests"/>
-            <class name="contextmenu.ContextMenuTests"/>
-            <class name="dropdown.DropdownTests"/>
-            <class name="dynamicloading.DynamicLoadingTests"/>
-            <class name="fileupload.FileUploadTests"/>
-            <class name="forgotPassword.ForgotPasswordTests"/>
-            <class name="frames.FrameTests"/>
-            <class name="holizontalSlider.HolizontalSliderPage"/>
-            <class name="hover.HoverTests"/>
-            <class name="javascript.JavaScriptTests"/>
-            <class name="keys.KeysTests"/>
-            <class name="login.LoginTests"/>
-            <class name="navigation.NavigationTests"/>
+            <!--            <class name="alerts.AlertTests"/>-->
+            <!--            <class name="brokenimages.BrokenImagesTests"/>-->
+            <!--            <class name="contextmenu.ContextMenuTests"/>-->
+            <!--            <class name="dropdown.DropdownTests"/>-->
+            <!--            <class name="dynamicloading.DynamicLoadingTests"/>-->
+            <!--            <class name="fileupload.FileUploadTests"/>-->
+            <!--            <class name="forgotPassword.ForgotPasswordTests"/>-->
+            <!--            <class name="frames.FrameTests"/>-->
+            <!--            <class name="holizontalSlider.HolizontalSliderPage"/>-->
+            <!--            <class name="hover.HoverTests"/>-->
+            <!--            <class name="javascript.JavaScriptTests"/>-->
+            <!--            <class name="keys.KeysTests"/>-->
+            <!--            <class name="login.LoginTests"/>-->
+            <!--            <class name="navigation.NavigationTests"/>-->
         </classes>
     </test>
 </suite>

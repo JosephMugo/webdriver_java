@@ -89,4 +89,9 @@ public class HomePage {
         clickLink("Multiple Windows");
         return new MultipleWindowsPage(driver);
     }
+
+    public StatusCodesPage clickStatusCodesPage() {
+        clickLink("Status Codes");
+        return new StatusCodesPage(driver);
+    }
 }
